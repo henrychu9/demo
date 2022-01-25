@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view><view>{{"人脸数量:"+this.number}}</view><button style="margin-top:10rpx;" form-type="submit" data-event-opts="{{[['tap',[['takephoto',['$event']]]]]}}" bindtap="__e">takePhoto</button></view></view>
